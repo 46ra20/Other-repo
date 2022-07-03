@@ -1,3 +1,19 @@
-p{
-    color: lightskyblue;
+*{
+    margin: 0 auto;
+    width: 75%;
+}
+h1, h3{
+    text-align: center;
+    text-decoration: underline;
+    background-color: burlywood;
+}
+.about-me{
+    width: 75%;
+    padding: none;
+    padding: 10px 0px;
+}
+.about-me img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
 }
